@@ -1,2 +1,3 @@
 # Python-for-finance
-Here I'm sharing my analytics projects done in the field of finance. Common themes
+I hope to share financial analytics projects here, and possibly receive constructive sriticism and assistance to help make them better - and learn on the way!
+I'm excited, Cheers!
